@@ -78,7 +78,7 @@ Compile using Visual Studio 2017
 
 ## Authors
 
-* **G.T Nomikos** - *Everything* - [Scaletta](https://github.com/Scaletta)
+* **G.T Nomikos** - [Scaletta](https://github.com/Scaletta)
 
 ## License
 
