@@ -38,16 +38,16 @@ This method retrieves the list of Session Initiation Protocol (SIP) registration
 ### END-USER SERVICES
 
 ```
-Call Forwarding Always - 100%
+Services/CallForwardingAlways - 100%
 This service allows the setting and retrieval of the Call Forwarding Always configuration. Call Forwarding Always (CFA) enables a user to redirect all incoming calls to another phone number. If activated, a user must specify the forwarding number.
 
-Services/CallForwardingBusy - 50%
+Services/CallForwardingBusy - 100%
 This service allows the setting and retrieval of the Call Forwarding Busy configuration. Call Forwarding Busy (CFB) enables a user to redirect calls to another destination when an incoming call encounters a busy condition.  If activated, a user must specify the forwarding number.
 
-Services/CallForwardingNoAnswer - 0%
+Services/CallForwardingNoAnswer - 100%
 This service allows the setting and retrieval of the Call Forwarding No Answer configuration. Call Forwarding No Answer (CFNA) enables a user to redirect calls to another destination when an incoming call is not answered within a specified number of rings. If activated, a user must specify the forwarding number and the number of rings before forwarding.
 
-Services/CallForwardingNotReachable - 0%
+Services/CallForwardingNotReachable - 100%
 This service allows for the setting and retrieval of the Call Forwarding Not Reachable service. Call Forwarding Not Reachable forwards calls to a different number when the user’s phone is not registered.
 
 Services/CallForwardingSelective - 0%
