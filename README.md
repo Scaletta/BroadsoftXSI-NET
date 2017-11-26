@@ -12,7 +12,7 @@ Visual Studio 2017
 
 Here you can check the status of implementations
 
-### Profile-level
+### END-USER PROFILE
 
 Change stuff on the userlevel.
 Requires the users username and password.
@@ -35,7 +35,7 @@ This method retrieves the list of Session Initiation Protocol (SIP) registration
 
 ```
 
-### Service-level
+### END-USER SERVICES
 
 ```
 Call Forwarding Always - 100%
